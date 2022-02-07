@@ -9,7 +9,7 @@
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "/app"
         }
     },
     "website": "https://github.com/goodboy213/myless/",
